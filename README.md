@@ -19,10 +19,6 @@
 
 ---
 
-## Looking for v5?
-
-The `main` branch is under development of the upcoming v6 major version of styled-components. For changes targeting v5, please point your PRs at the `legacy-v5` branch.
-
 ---
 
 Utilizing [tagged template literals](https://www.styled-components.com/docs/advanced#tagged-template-literals) (a recent addition to JavaScript) and the [power of CSS](https://www.styled-components.com/docs/api#supported-css), `styled-components` allow you to write actual CSS code to style your components. It also removes the mapping between components and styles – using components as a low-level styling construct could not be easier!
