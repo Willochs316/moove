@@ -26,7 +26,6 @@ export const Title = styled.div`
   width: 155px;
   left: 16px;
   top: 216px;
-  /* font-family: "Bw Modelica"; */
   font-style: normal;
   font-weight: 700;
   font-size: 20px;
@@ -55,12 +54,64 @@ export const BurnaCard = styled.img`
   left: 15px;
 `;
 
+export const BurnaTitle = styled.p`
+  position: absolute;
+  left: 33px;
+  top: 444px;
+  width: 121px;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 17px;
+  letter-spacing: 0.04em;
+  text-align: left;
+  color: #ffffff;
+`;
+
+export const BurnaContent = styled.p`
+  height: 21.603561401367188px;
+  width: 142.42347717285156px;
+  position: absolute;
+  left: 35px;
+  top: 467px;
+  font-size: 8px;
+  font-weight: 500;
+  line-height: 10px;
+  letter-spacing: 0.04em;
+  text-align: left;
+`;
+
 export const LojayCard = styled.img`
   height: 228.0465545654297px;
   width: 181.1341094970703px;
   position: absolute;
   top: 278px;
   right: 30.87px;
+`;
+
+export const LojayTitle = styled.p`
+  position: absolute;
+  left: 233px;
+  top: 444px;
+  width: 121px;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 17px;
+  letter-spacing: 0.04em;
+  text-align: left;
+  color: #ffffff;
+`;
+
+export const LojayContent = styled.p`
+  height: 21.603561401367188px;
+  width: 142.42347717285156px;
+  position: absolute;
+  left: 233px;
+  top: 467px;
+  font-size: 8px;
+  font-weight: 500;
+  line-height: 10px;
+  letter-spacing: 0.04em;
+  text-align: left;
 `;
 
 export const SecondBurnaCard = styled.img`
@@ -71,7 +122,7 @@ export const SecondBurnaCard = styled.img`
   left: 410px;
 `;
 
-export const Content = styled.div`
+export const Text = styled.div`
   height: 17px;
   width: 167px;
   position: absolute;
