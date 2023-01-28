@@ -264,17 +264,16 @@ export const PlaylistDot = styled.img`
 `;
 
 export const FirstDrumIcon = styled.img`
-  height: 107.99779510498047px;
-  /* width: 85.94842529296875px; */
-  /* top: 925.15966796875px; */
+  height: 428px;
   position: absolute;
   left: 0px;
   top: 5.21px;
   cursor: pointer;
+  object-fit: contain;
 `;
 
 export const SecondDrumIcon = styled.img`
-  height: 107.99779510498047px;
+  height: 428px;
   position: absolute;
   left: 108.88px;
   top: 3.41px;
@@ -282,7 +281,7 @@ export const SecondDrumIcon = styled.img`
 `;
 
 export const ThirdDrumIcon = styled.img`
-  height: 107.99779510498047px;
+  height: 428px;
   position: absolute;
   left: 213.33px;
   top: 1.46px;
@@ -290,9 +289,9 @@ export const ThirdDrumIcon = styled.img`
 `;
 
 export const FourthDrumIcon = styled.img`
-  height: 107.99779510498047px;
+  height: 428px;
   position: absolute;
-  right: 0px;
+  left: 320px;
   top: 1.46px;
   cursor: pointer;
 `;

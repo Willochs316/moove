@@ -25,7 +25,7 @@ import lojay from "../assets/png/lojay.png";
 import home from "../assets/png/home-icon.png";
 import dot from "../assets/png/vector-playlist-dot.png";
 import playlist from "../assets/png/vector-playlist-icon.png";
-import drum from "../assets/png/vector-drum.png";
+import drum from "../assets/png/mask-drum-group.png";
 import eye from "../assets/png/eye-icon.png";
 import library from "../assets/png/vector-library.png";
 import FooterStyled from "./Footer";
