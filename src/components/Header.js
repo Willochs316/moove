@@ -1,5 +1,5 @@
 import { Logo, Nav, StyledHeader } from "./styles/Header.styled";
-import profile from "../assets/png/profile.png";
+import profile from "../assets/images/profile.png";
 
 const Header = () => {
   return (

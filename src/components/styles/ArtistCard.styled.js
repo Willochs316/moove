@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import myBannerImage from "../../assets/png/header-banner.png";
+import myBannerImage from "../../assets/images/header-banner.png";
 
 export const AppMusicCard = styled.div`
   display: flex;

@@ -20,14 +20,14 @@ import {
   SecondLojayTitle,
   Footer,
 } from "./styles/ArtistCard.styled";
-import burna from "../assets/png/burna-boy.png";
-import lojay from "../assets/png/lojay.png";
-import home from "../assets/png/home-icon.png";
-import dot from "../assets/png/vector-playlist-dot.png";
-import playlist from "../assets/png/vector-playlist-icon.png";
-import drum from "../assets/png/mask-drum-group.png";
-import eye from "../assets/png/eye-icon.png";
-import library from "../assets/png/vector-library.png";
+import burna from "../assets/images/burna-boy.png";
+import lojay from "../assets/images/lojay.png";
+import home from "../assets/images/home-icon.png";
+import dot from "../assets/images/vector-playlist-dot.png";
+import playlist from "../assets/images/vector-playlist-icon.png";
+import drum from "../assets/images/mask-drum-group.png";
+import eye from "../assets/images/eye-icon.png";
+import library from "../assets/images/vector-library.png";
 import FooterStyled from "./Footer";
 
 const ArtistCard = () => {
